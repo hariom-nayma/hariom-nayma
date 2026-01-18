@@ -49,7 +49,7 @@
 
 <!-- Replace YOUR_WAKATIME_USERNAME -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hariom&theme=radical&layout=compact"/>
 </p>
 
 📝 Shows **real coding hours**, languages & consistency (Recruiters LOVE this)
@@ -59,12 +59,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hariom-nayma&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom-nayma&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariom-nayma&theme=radical"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hariom-nayma&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
