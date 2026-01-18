@@ -77,21 +77,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://github.com/hariom-nayma/hariom-nayma/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-👉 **IMPORTANT**:  
-To enable the snake animation:
-1. Create a repo named **YOUR_GITHUB_USERNAME**
-2. Add GitHub Action using **Platane/snk**
-3. Output branch = `output`
-
-(I can give you the exact workflow file if you want)
-
----
 
 ## 🎯 Current Focus
 
