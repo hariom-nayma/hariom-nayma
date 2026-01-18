@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Binod%20Tharu&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Java%20|%20Spring%20Boot%20|%20Backend%20Developer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Hariom%20Nayma&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Java%20|%20Spring%20Boot%20|%20Backend%20Developer&descAlignY=60"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
