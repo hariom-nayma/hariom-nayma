@@ -56,6 +56,17 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/hariom-nayma/hariom-nayma/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake"
+    src="https://github.com/hariom-nayma/hariom-nayma/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
