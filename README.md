@@ -52,8 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hariom&theme=radical&layout=compact"/>
 </p>
 
-📝 Shows **real coding hours**, languages & consistency (Recruiters LOVE this)
-
 ---
 
 ## 🐍 Contribution Snake
